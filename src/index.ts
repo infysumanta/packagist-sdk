@@ -1,3 +1,1 @@
-import { Packagist } from './packagist';
-
-export { Packagist };
+export { getListPackageNames } from './lib';
