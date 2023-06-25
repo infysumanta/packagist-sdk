@@ -4,4 +4,5 @@ export {
   getListPopularPackages,
   geListPackagesByType,
   searchPackages,
+  getPackageDetails,
 } from './lib';
