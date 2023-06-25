@@ -1,1 +1,1 @@
-export { getListPackageNames } from './lib';
+export { getListPackageNames, geListPackageByOrg } from './lib';
