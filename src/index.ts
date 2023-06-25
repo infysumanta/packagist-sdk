@@ -1,1 +1,5 @@
-export { getListPackageNames, geListPackageByOrg } from './lib';
+export {
+  getListPackageNames,
+  geListPackageByOrg,
+  getListPopularPackages,
+} from './lib';
