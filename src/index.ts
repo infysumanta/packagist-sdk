@@ -1,3 +1,8 @@
-import { Packagist } from './packagist';
-
-export { Packagist };
+export {
+  getListPackageNames,
+  geListPackageByOrg,
+  getListPopularPackages,
+  geListPackagesByType,
+  searchPackages,
+  getPackageDetails,
+} from './lib';
